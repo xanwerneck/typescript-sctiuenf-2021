@@ -12,14 +12,14 @@ Also, I want to be able to create juices with one an additional ingredient.
 
 ## User Stories
 
-### As a manager
-### I want to create juices
-### To control requests from clients
+As a manager
+I want to create juices
+To control requests from clients
 
-### As a manager
-### I want to create a order
-### To compute the final price and receive payment
+As a manager
+I want to create a order
+To compute the final price and receive payment
 
-### As a manager
-### I want to create a juice with additional ingredient
-### To improve the menu
+As a manager
+I want to create a juice with additional ingredient
+To improve the menu
