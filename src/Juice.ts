@@ -10,4 +10,5 @@ export class Juice implements IJuice {
         this.description = description
         this.price = price
     }
+
 }
