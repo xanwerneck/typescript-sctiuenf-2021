@@ -1,5 +1,6 @@
-#1 - npm init
-#2 - npm i --save-dev typescript
-#3 - npx tsc --init
-#4 - npm install --save-dev webpack webpack-cli webpack-dev-server
-#5 - npm install --save-dev ts-loader
+# typescript-sctiuenf-2021
+Design patterns, SOLID principles, Unit tests using TS
+
+## Install packages by cloning the Repository
+### git clone https://github.com/xanwerneck/typescript-sctiuenf-2021
+### npm install
