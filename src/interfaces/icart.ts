@@ -9,7 +9,6 @@ export interface ICart {
     items : Array<IItemCart>
     payment : IPayment
     add : Function
-    order : Function
     final_price : Function
     pay : Function
 }
